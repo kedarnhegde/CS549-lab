@@ -1,0 +1,6 @@
+- python -m venv emotion-env  
+- source emotion-env/bin/activate
+- python -m pip install numpy==1.24.3                              
+- python -m pip install torch==2.0.1 torchvision==0.15.2 torchaudio
+- python -m pip install transformers soundfile pandas tqdm
+- python -m pip install librosa 
