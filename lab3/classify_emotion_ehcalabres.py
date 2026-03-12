@@ -1,3 +1,9 @@
+"""
+Speech emotion classification using ehcalabres/wav2vec2-lg-xlsr-en-speech-emotion-recognition.
+
+Usage (from lab3/):
+    python classify_emotion_ehcalabres.py Toronto_samples emotion_results_ehcalabres.csv
+"""
 import torch
 from transformers import pipeline
 import soundfile as sf
