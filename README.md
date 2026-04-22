@@ -13,9 +13,8 @@ Features implemented:
 
 ## Files
 - main.ipynb → main notebook
-- NDA-1.pdf → sample document
-- NDA-1_ALT.pdf → sample alternative document
-- NDA-2.pdf → sample document
+- data-original/* → original NDA documents
+- data-altered/* → modified NDA documents
 
 Make sure all files are in the same folder.
 
